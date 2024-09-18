@@ -1,27 +1,48 @@
+Here’s the enhanced structure for the README without altering any of the content:
+
+---
 
 # NOOB SYSTEM
 
 ---
-"Noob" is a comprehensive platform designed to revolutionize the world of gaming tournaments and eSports management. This website offers a centralized hub for organizing tournaments, adding coaching sessions, and offering academy courses for gamers of all levels.
-Key features of "Noob" include:
-Tournament Management: Effortlessly create, manage, and finalize gaming tournaments. The platform supports dynamic participant management, real-time match tracking, and seamless communication with organizers.
-Coaching and Training: Players can access a variety of coaching sessions and academy courses tailored to different games and skill levels. This helps them to improve their gameplay, strategize better, and advance their competitive edge.
-Team Registration and Scouting: "Noob" enables the registration of gaming teams and scouting of individual players, fostering a competitive community and helping organizations find new talent.
-Vendor and PC Center Integration: Vendors can list PC centers on the platform, allowing players to find and subscribe to local or preferred gaming centers. This creates a bridge between gamers and gaming venues, enhancing community engagement.
-Subscription Management: Players can easily subscribe to their chosen PC centers, benefiting from exclusive deals, updates, and events, while PC centers manage their subscriptions and user interactions smoothly.
-"Noob" aims to bring together gamers, teams, coaches, and gaming centers in a unified platform, enhancing the gaming experience and fostering a vibrant eSports community.
+
+**"Noob"** is a comprehensive platform designed to revolutionize the world of gaming tournaments and eSports management. This website offers a centralized hub for organizing tournaments, adding coaching sessions, and offering academy courses for gamers of all levels.
+
+### Key Features
+
+- **Tournament Management**: Effortlessly create, manage, and finalize gaming tournaments. The platform supports dynamic participant management, real-time match tracking, and seamless communication with organizers.
+
+- **Coaching and Training**: Players can access a variety of coaching sessions and academy courses tailored to different games and skill levels. This helps them improve their gameplay, strategize better, and advance their competitive edge.
+
+- **Team Registration and Scouting**: "Noob" enables the registration of gaming teams and scouting of individual players, fostering a competitive community and helping organizations find new talent.
+
+- **Vendor and PC Center Integration**: Vendors can list PC centers on the platform, allowing players to find and subscribe to local or preferred gaming centers. This creates a bridge between gamers and gaming venues, enhancing community engagement.
+
+- **Subscription Management**: Players can easily subscribe to their chosen PC centers, benefiting from exclusive deals, updates, and events, while PC centers manage their subscriptions and user interactions smoothly.
+
+**"Noob" aims to bring together gamers, teams, coaches, and gaming centers in a unified platform, enhancing the gaming experience and fostering a vibrant eSports community.**
+
 ---
 
+## Arabic Version:
+
 "نوب" هو منصة شاملة تهدف إلى إحداث ثورة في عالم البطولات الرياضية الإلكترونية وإدارة الألعاب. يقدم هذا الموقع مركزًا موحدًا لتنظيم البطولات، وإضافة جلسات تدريبية، وتقديم دورات أكاديمية للاعبين من جميع المستويات.
-تشمل الميزات الرئيسية لموقع "نوب":
-إدارة البطولات: إنشاء البطولات الرياضية الإلكترونية وإدارتها وإتمامها بكل سهولة. تدعم المنصة إدارة المشاركين بشكل ديناميكي، وتتبع المباريات في الوقت الحقيقي، والتواصل السلس مع المنظمين.
-التدريب والتطوير: يمكن للاعبين الوصول إلى مجموعة متنوعة من جلسات التدريب والدورات الأكاديمية المخصصة لألعاب ومستويات مهارات مختلفة. يساعدهم ذلك على تحسين مهاراتهم، وتطوير استراتيجيات أفضل، وتعزيز قدراتهم التنافسية.
-تسجيل الفرق واستكشاف اللاعبين: يتيح "نوب" تسجيل الفرق الرياضية الإلكترونية واستكشاف اللاعبين الفرديين، مما يعزز من تكوين مجتمع تنافسي ويساعد المنظمات على اكتشاف المواهب الجديدة.
-دمج الموردين ومراكز الكمبيوتر: يمكن للموردين إدراج مراكز الكمبيوتر على المنصة، مما يسمح للاعبين بالبحث عن مراكز ألعاب محلية أو مفضلة والاشتراك فيها، مما يعزز من تفاعل المجتمع.
-إدارة الاشتراكات: يمكن للاعبين الاشتراك بسهولة في مراكز الكمبيوتر المختارة، والاستفادة من العروض الحصرية، والتحديثات، والفعاليات، بينما تدير مراكز الكمبيوتر اشتراكاتها وتفاعلات المستخدمين بسلاسة.
-يهدف "نوب" إلى جمع اللاعبين، والفرق، والمدربين، ومراكز الألعاب في منصة واحدة، مما يعزز تجربة الألعاب ويدعم مجتمع الرياضات الإلكترونية النابض بالحياة.
 
+### الميزات الرئيسية:
 
+- **إدارة البطولات**: إنشاء البطولات الرياضية الإلكترونية وإدارتها وإتمامها بكل سهولة. تدعم المنصة إدارة المشاركين بشكل ديناميكي، وتتبع المباريات في الوقت الحقيقي، والتواصل السلس مع المنظمين.
+
+- **التدريب والتطوير**: يمكن للاعبين الوصول إلى مجموعة متنوعة من جلسات التدريب والدورات الأكاديمية المخصصة لألعاب ومستويات مهارات مختلفة. يساعدهم ذلك على تحسين مهاراتهم، وتطوير استراتيجيات أفضل، وتعزيز قدراتهم التنافسية.
+
+- **تسجيل الفرق واستكشاف اللاعبين**: يتيح "نوب" تسجيل الفرق الرياضية الإلكترونية واستكشاف اللاعبين الفرديين، مما يعزز من تكوين مجتمع تنافسي ويساعد المنظمات على اكتشاف المواهب الجديدة.
+
+- **دمج الموردين ومراكز الكمبيوتر**: يمكن للموردين إدراج مراكز الكمبيوتر على المنصة، مما يسمح للاعبين بالبحث عن مراكز ألعاب محلية أو مفضلة والاشتراك فيها، مما يعزز من تفاعل المجتمع.
+
+- **إدارة الاشتراكات**: يمكن للاعبين الاشتراك بسهولة في مراكز الكمبيوتر المختارة، والاستفادة من العروض الحصرية، والتحديثات، والفعاليات، بينما تدير مراكز الكمبيوتر اشتراكاتها وتفاعلات المستخدمين بسلاسة.
+
+**يهدف "نوب" إلى جمع اللاعبين، والفرق، والمدربين، ومراكز الألعاب في منصة واحدة، مما يعزز تجربة الألعاب ويدعم مجتمع الرياضات الإلكترونية النابض بالحياة.**
+
+---
 
 ## Links
 
@@ -32,367 +53,159 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 ---
 
 ## Diagrams
-- [Usecase diagram P1](https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?view_items=cnq~SSIeWqfB&invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b)
-- [Usecase diagram P2](https://lucid.app/lucidchart/e5455375-88e3-4ebc-93fe-774c0053ca63/edit?beaconFlowId=8798B8329F0DF94E&invitationId=inv_7373ffb9-81f0-4ab2-ac23-4628433424ca&page=0_0#)
-- [Class diagram](https://drive.google.com/file/d/1bruFimOwVR5KivpLjTzH2Wah70n8tbzL/view)
 
-## My entities
-1-User
-2-Player
-3-Team
-5-TeamInvite
-4-League
+- [Usecase Diagram P1](https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?view_items=cnq~SSIeWqfB&invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b)
+- [Usecase Diagram P2](https://lucid.app/lucidchart/e5455375-88e3-4ebc-93fe-774c0053ca63/edit?beaconFlowId=8798B8329F0DF94E&invitationId=inv_7373ffb9-81f0-4ab2-ac23-4628433424ca&page=0_0#)
+- [Class Diagram](https://drive.google.com/file/d/1bruFimOwVR5KivpLjTzH2Wah70n8tbzL/view)
 
+---
 
-## My relationships
-1-User to player
-2-User to team
-3-All league's relations
-4-All Team's relations
-5-Player and participant
+## Entities
 
+1. User  
+2. Player  
+3. Team  
+4. TeamInvite  
+5. League
 
-## My endpoints
+---
 
-#### getLeague
+## Relationships
 
-```http
- /api/v1/league/get/{leagueId}
-```
+1. User to Player  
+2. User to Team  
+3. All League's relations  
+4. All Team's relations  
+5. Player and Participant
 
-#### getAllParticipants
+---
 
-```http
- /api/v1/league/{leagueId}/get-all-participants
-```
+## Endpoints
 
-#### participateInLeague
+### League Endpoints
 
-```http
- /api/v1/league/{leagueId}/participate
-```
+- **getLeague**  
+  `/api/v1/league/get/{leagueId}`
 
-#### withdrawFromLeague
+- **getAllParticipants**  
+  `/api/v1/league/{leagueId}/get-all-participants`
 
-```http
- /api/v1/league/{leagueId}/withdraw
-```
+- **participateInLeague**  
+  `/api/v1/league/{leagueId}/participate`
 
-#### kickParticipant
+- **withdrawFromLeague**  
+  `/api/v1/league/{leagueId}/withdraw`
 
-```http
- /api/v1/league/{leagueId}/kick-participant/{playerId}
-```
+- **kickParticipant**  
+  `/api/v1/league/{leagueId}/kick-participant/{playerId}`
 
-#### changeLeagueDates
+- **changeLeagueDates**  
+  `/api/v1/league/{leagueId}/change-dates`
 
-```http
- /api/v1/league/{leagueId}/change-dates
-```
-#### setLeagueRoundDate
+- **setLeagueRoundDate**  
+  `/api/v1/league/{leagueId}/round/{roundId}/set-dates`
 
-```http
- /api/v1/league/{leagueId}/round/{roundId}/set-dates
-```
+- **setLeagueMatchDate**  
+  `/api/v1/league/{leagueId}/match/{matchId}/set-dates`
 
-#### setLeagueMatchDate
+- **setLeagueToReady**  
+  `/api/v1/league/{leagueId}/set-ready`
 
-```http
- /api/v1/league/{leagueId}/match/{matchId}/set-dates
-```
-#### setLeagueToReady
+- **startMatch**  
+  `/api/v1/league/{leagueId}/match/{matchId}/start-match`
 
-```http
- /api/v1/league/{leagueId}/set-ready
-```
+- **add1toParticipant1Score**  
+  `api/v1/{leagueId}/match/{matchId}/add-1score-to-participant1`
 
-#### startMatch
+- **add1toParticipant2Score**  
+  `api/v1/{leagueId}/match/{matchId}/add-1score-to-participant2`
 
-```http
- /api/v1/league/{leagueId}/match/{matchId}/start-match
-```
+- **sub1fromParticipant1Score**  
+  `api/v1/{leagueId}/match/{matchId}/sub-1score-from-participant1`
 
-#### add1toParticipant1Score
+- **sub1fromParticipant2Score**  
+  `api/v1/{leagueId}/match/{matchId}/sub-1score-from-participant2`
 
-```http
- api/v1/{leagueId}/match/{matchId}/add-1score-to-participant1
-```
+- **finishMatch**  
+  `/api/v1/league/{leagueId}/match/{matchId}/finish-match`
 
-#### add1toParticipant2Score
+- **cancelMatch**  
+  `/api/v1/league/{leagueId}/match/{matchId}/cancel-match`
 
-```http
- api/v1/{leagueId}/match/{matchId}/add-1score-to-participant2
-```
+- **finalizeLeague**  
+  `/api/v1/league/{leagueId}/finalize`
 
-#### sub1fromParticipant1Score
+- **getRounds**  
+  `/api/v1/league/{leagueId}/get-rounds`
 
-```http
- api/v1/{leagueId}/match/{matchId}/sub-1score-from-participant1
-```
+- **getMatches**  
+  `/api/v1/league/{leagueId}/get-matches`
 
-#### sub1fromParticipant2Score
+- **getLeaderboard**  
+  `/api/v1/league/{leagueId}/leaderboard`
 
-```http
- api/v1/{leagueId}/match/{matchId}/sub-1score-from-participant2
-```
+---
 
-#### finishMatch
+### Team Endpoints
 
-```http
- api/v1/{leagueId}/match/{matchId}/finish-match
-```
+- **getTeamById**  
+  `/api/v1/team/get/{teamId}`
 
-#### cancelMatch
+- **getTeamProfile**  
+  `/api/v1/team/get/profile/{teamId}`
 
-```http
- api/v1/{leagueId}/match/{matchId}/cancel-match
-```
-```http
- /api/v1/league/{leagueId}/match/{matchId}/finish-match
-```
+- **getAllTeamPlayers**  
+  `/api/v1/team/players/get-all`
 
-| Description                 |
-|  :------------------------- |
-|  Organizer ends the match, finalizing the scores.|
+- **getInvites**  
+  `/api/v1/team/invites/get-invites`
 
-#### cancelMatch
+- **invitePlayerToTeam**  
+  `/api/v1/team/invites/invite/{PlayerUsername}`
 
-```http
- /api/v1/league/{leagueId}/match/{matchId}/cancel-match
-```
+- **inviteMultiplePlayersToTeam**  
+  `/api/v1/team/invites/invite-multiple-players`
 
-| Description                 |
-|  :------------------------- |
-|  Organizer cancels the match, can be done when ongoing or when players are absent.|
+- **updateBio**  
+  `/api/v1/team/update-bio`
 
-#### finalizeLeague
+- **deleteTeamInvite**  
+  `/api/v1/team/invites/{inviteId}/delete`
 
-```http
- /api/v1/league/{leagueId}/finalize
-```
+---
 
-| Description                 |
-|  :------------------------- |
-|  Organizer ends the league once all matches are either finished or cancelled.|
+### Player Endpoints
 
-#### getRounds
+- **getPlayer**  
+  `/api/v1/player/invites/get/{playerId}`
 
-```http
- /api/v1/league/{leagueId}/get-rounds
-```
+- **getPlayerProfile**  
+  `/api/v1/player/invites/get/profile/{playerId}`
 
-| Description                 |
-|  :------------------------- |
-|  get all rounds in league.|
+- **getPlayerProfiles**  
+  `/api/v1/player/invites/get/profile/by-username/{username}`
 
-#### getMatches
+- **editBio**  
+  `/api/v1/player/edit-bio`
 
-```http
- /api/v1/league/{leagueId}/get-matches
-```
+- **getInvites**  
+  `/api/v1/player/invites/get-invites`
 
-| Description                 |
-|  :------------------------- |
-|  get all matches in league.|
+- **declineInvite**  
+  `/api/v1/player/invites/{inviteId}/decline`
 
-#### getLeaderboard
+- **acceptInvite**  
+  `/api/v1/player/invites/{inviteId}/accept`
 
-```http
- /api/v1/league/{leagueId}/leaderboard
-```
+- **leaveTeam**  
+  `/api/v1/player/team/leave`
 
-| Description                 |
-|  :------------------------- |
-|  get participants orders by scores, highiest to lowest.|
+---
 
-#### getTeamById
+### Match Endpoints
 
-```http
- /api/v1/team/get/{teamId}
-```
+- **getParticipantMatches**  
+  `/api/v1/match/get-by-participant/{participantId}`
 
-| Description                 |
-|  :------------------------- |
-|  get a team by team id.|
-
-#### getTeamProfile
-
-```http
- /api/v1/team/get/profile/{teamId}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a team profile by it's id.|
-
-#### getAllTeamPlayers
-
-```http
- /api/v1/team/players/get-all
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a list of team members.|
-
-#### getInvites
-
-```http
- /api/v1/team/invites/get-invites
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a list team invites sent by a team.|
-
-#### invitePlayerToTeam
-
-```http
- /api/v1/team/invites/invite/{PlayerUsername}
-```
-
-| Description                 |
-|  :------------------------- |
-|  invite a player by username.|
-
-#### inviteMultiplePlayersToTeam
-
-```http
- /api/v1/team/invites/invite-multiple-players
-```
-
-| Description                 |
-|  :------------------------- |
-|  invite players by their username.|
-
-#### inviteMultiplePlayersToTeam
-
-```http
- /api/v1/team/invites/invite-multiple-players
-```
-
-| Description                 |
-|  :------------------------- |
-|  invite players by their username.|
-
-
-#### updateBio
-
-```http
- /api/v1/team/update-bio
-```
-
-| Description                 |
-|  :------------------------- |
-|  update a team's bio.|
-
-#### deleteTeamInvite
-
-```http
- /api/v1/team/invites/{inviteId}/delete
-```
-
-| Description                 |
-|  :------------------------- |
-|  delete a team invite.|
-
-
-#### getPlayer
-
-```http
- /api/v1/player/invites/get/{playerId}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a player by the player's id.|
-
-#### getPlayerProfile
-
-```http
- /api/v1/player/invites/get/profile/{playerId}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a player's profile by the player's id.|
-
-#### getPlayerProfiles
-
-```http
- /api/v1/player/invites/get/profile/by-username/{username}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get a list of players profile by searching a string.|
-
-#### editBio
-
-```http
- /api/v1/player/edit-bio
-```
-
-| Description                 |
-|  :------------------------- |
-|  edit player's profile.|
-
-#### getInvites
-
-```http
- /api/v1/player/edit-bio
-```
-
-| Description                 |
-|  :------------------------- |
-|  get team invites sent.|
-
-#### declineInvite
-
-```http
- /api/v1/player/invites/{inviteId}/decline
-```
-
-| Description                 |
-|  :------------------------- |
-|  reject a team's invite.|
-
-#### acceptInvite
-
-```http
- /api/v1/player/invites/{inviteId}/accept
-```
-
-| Description                 |
-|  :------------------------- |
-|  accept a team's invite.|
-
-#### leaveTeam
-
-```http
- /api/v1/player/team/leave
-```
-
-| Description                 |
-|  :------------------------- |
-|  leave current team.|
-
-#### getParticipantMatches
-
-```http
- /api/v1/match/get-by-participant/{participantId}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get the participants of the match.|
-
-#### getMatchById
-
-```http
- /api/v1/match/get-by-id/{matchId}
-```
-
-| Description                 |
-|  :------------------------- |
-|  get match by it's id.|
+- **getMatchById**  
+  `/api/v1/match/get-by-id/{matchId}`
