@@ -1,6 +1,7 @@
 
 # NOOB SYSTEM
 
+---
 "Noob" is a comprehensive platform designed to revolutionize the world of gaming tournaments and eSports management. This website offers a centralized hub for organizing tournaments, adding coaching sessions, and offering academy courses for gamers of all levels.
 Key features of "Noob" include:
 Tournament Management: Effortlessly create, manage, and finalize gaming tournaments. The platform supports dynamic participant management, real-time match tracking, and seamless communication with organizers.
@@ -9,6 +10,7 @@ Team Registration and Scouting: "Noob" enables the registration of gaming teams 
 Vendor and PC Center Integration: Vendors can list PC centers on the platform, allowing players to find and subscribe to local or preferred gaming centers. This creates a bridge between gamers and gaming venues, enhancing community engagement.
 Subscription Management: Players can easily subscribe to their chosen PC centers, benefiting from exclusive deals, updates, and events, while PC centers manage their subscriptions and user interactions smoothly.
 "Noob" aims to bring together gamers, teams, coaches, and gaming centers in a unified platform, enhancing the gaming experience and fostering a vibrant eSports community.
+---
 
 "نوب" هو منصة شاملة تهدف إلى إحداث ثورة في عالم البطولات الرياضية الإلكترونية وإدارة الألعاب. يقدم هذا الموقع مركزًا موحدًا لتنظيم البطولات، وإضافة جلسات تدريبية، وتقديم دورات أكاديمية للاعبين من جميع المستويات.
 تشمل الميزات الرئيسية لموقع "نوب":
@@ -20,11 +22,14 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 يهدف "نوب" إلى جمع اللاعبين، والفرق، والمدربين، ومراكز الألعاب في منصة واحدة، مما يعزز تجربة الألعاب ويدعم مجتمع الرياضات الإلكترونية النابض بالحياة.
 
 
+
 ## Links
 
-Figma: https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&t=V7eJ7Z3AifS0XrJO-1
-Presentation: https://www.canva.com/design/DAGQ_9lAwuU/uPJlkOj0XV8sx3AN4qdTiA/edit?utm_content=DAGQ_9lAwuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Postman: https://documenter.getpostman.com/view/30968689/2sAXqqdNjT
+- [Figma Design](https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&t=V7eJ7Z3AifS0XrJO-1)
+- [Presentation](https://www.canva.com/design/DAGQ_9lAwuU/uPJlkOj0XV8sx3AN4qdTiA/edit?utm_content=DAGQ_9lAwuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Postman Documentation](https://documenter.getpostman.com/view/30968689/2sAXqqdNjT)
+
+---
 
 ## My endpoints
 
