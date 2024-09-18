@@ -54,9 +54,11 @@ Here’s the enhanced structure for the README without altering any of the conte
 
 ## Diagrams
 
-- [Usecase Diagram P1](https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?view_items=cnq~SSIeWqfB&invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b)
-- [Usecase Diagram P2](https://lucid.app/lucidchart/e5455375-88e3-4ebc-93fe-774c0053ca63/edit?beaconFlowId=8798B8329F0DF94E&invitationId=inv_7373ffb9-81f0-4ab2-ac23-4628433424ca&page=0_0#)
-- [Class Diagram](https://drive.google.com/file/d/1bruFimOwVR5KivpLjTzH2Wah70n8tbzL/view)
+
+![Part1](https://github.com/user-attachments/assets/0235d2e0-464f-431a-99be-ef835b32c0dc)
+
+
+![Part2](https://github.com/user-attachments/assets/997b509c-1fa1-4ee8-88c3-fbbd132bbc9c)
 
 ---
 
