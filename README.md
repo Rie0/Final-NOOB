@@ -21,6 +21,11 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 
 
 ## Links
+
+Figma: https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&t=V7eJ7Z3AifS0XrJO-1
+Presentation: https://www.canva.com/design/DAGQ_9lAwuU/uPJlkOj0XV8sx3AN4qdTiA/edit?utm_content=DAGQ_9lAwuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Postman: https://documenter.getpostman.com/view/30968689/2sAXqqdNjT
+
 ## My endpoints
 
 #### getLeague
