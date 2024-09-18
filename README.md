@@ -36,6 +36,21 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 - [Usecase diagram P2](https://lucid.app/lucidchart/e5455375-88e3-4ebc-93fe-774c0053ca63/edit?beaconFlowId=8798B8329F0DF94E&invitationId=inv_7373ffb9-81f0-4ab2-ac23-4628433424ca&page=0_0#)
 - [Class diagram](https://drive.google.com/file/d/1bruFimOwVR5KivpLjTzH2Wah70n8tbzL/view)
 
+## My entities
+1-User
+2-Player
+3-Team
+5-TeamInvite
+4-League
+
+
+## My relationships
+1-User to player
+2-User to team
+3-All league's relations
+4-All Team's relations
+5-Player and participant
+
 
 ## My endpoints
 
@@ -132,3 +147,252 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 ```http
  api/v1/{leagueId}/match/{matchId}/cancel-match
 ```
+```http
+ /api/v1/league/{leagueId}/match/{matchId}/finish-match
+```
+
+| Description                 |
+|  :------------------------- |
+|  Organizer ends the match, finalizing the scores.|
+
+#### cancelMatch
+
+```http
+ /api/v1/league/{leagueId}/match/{matchId}/cancel-match
+```
+
+| Description                 |
+|  :------------------------- |
+|  Organizer cancels the match, can be done when ongoing or when players are absent.|
+
+#### finalizeLeague
+
+```http
+ /api/v1/league/{leagueId}/finalize
+```
+
+| Description                 |
+|  :------------------------- |
+|  Organizer ends the league once all matches are either finished or cancelled.|
+
+#### getRounds
+
+```http
+ /api/v1/league/{leagueId}/get-rounds
+```
+
+| Description                 |
+|  :------------------------- |
+|  get all rounds in league.|
+
+#### getMatches
+
+```http
+ /api/v1/league/{leagueId}/get-matches
+```
+
+| Description                 |
+|  :------------------------- |
+|  get all matches in league.|
+
+#### getLeaderboard
+
+```http
+ /api/v1/league/{leagueId}/leaderboard
+```
+
+| Description                 |
+|  :------------------------- |
+|  get participants orders by scores, highiest to lowest.|
+
+#### getTeamById
+
+```http
+ /api/v1/team/get/{teamId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a team by team id.|
+
+#### getTeamProfile
+
+```http
+ /api/v1/team/get/profile/{teamId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a team profile by it's id.|
+
+#### getAllTeamPlayers
+
+```http
+ /api/v1/team/players/get-all
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a list of team members.|
+
+#### getInvites
+
+```http
+ /api/v1/team/invites/get-invites
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a list team invites sent by a team.|
+
+#### invitePlayerToTeam
+
+```http
+ /api/v1/team/invites/invite/{PlayerUsername}
+```
+
+| Description                 |
+|  :------------------------- |
+|  invite a player by username.|
+
+#### inviteMultiplePlayersToTeam
+
+```http
+ /api/v1/team/invites/invite-multiple-players
+```
+
+| Description                 |
+|  :------------------------- |
+|  invite players by their username.|
+
+#### inviteMultiplePlayersToTeam
+
+```http
+ /api/v1/team/invites/invite-multiple-players
+```
+
+| Description                 |
+|  :------------------------- |
+|  invite players by their username.|
+
+
+#### updateBio
+
+```http
+ /api/v1/team/update-bio
+```
+
+| Description                 |
+|  :------------------------- |
+|  update a team's bio.|
+
+#### deleteTeamInvite
+
+```http
+ /api/v1/team/invites/{inviteId}/delete
+```
+
+| Description                 |
+|  :------------------------- |
+|  delete a team invite.|
+
+
+#### getPlayer
+
+```http
+ /api/v1/player/invites/get/{playerId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a player by the player's id.|
+
+#### getPlayerProfile
+
+```http
+ /api/v1/player/invites/get/profile/{playerId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a player's profile by the player's id.|
+
+#### getPlayerProfiles
+
+```http
+ /api/v1/player/invites/get/profile/by-username/{username}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get a list of players profile by searching a string.|
+
+#### editBio
+
+```http
+ /api/v1/player/edit-bio
+```
+
+| Description                 |
+|  :------------------------- |
+|  edit player's profile.|
+
+#### getInvites
+
+```http
+ /api/v1/player/edit-bio
+```
+
+| Description                 |
+|  :------------------------- |
+|  get team invites sent.|
+
+#### declineInvite
+
+```http
+ /api/v1/player/invites/{inviteId}/decline
+```
+
+| Description                 |
+|  :------------------------- |
+|  reject a team's invite.|
+
+#### acceptInvite
+
+```http
+ /api/v1/player/invites/{inviteId}/accept
+```
+
+| Description                 |
+|  :------------------------- |
+|  accept a team's invite.|
+
+#### leaveTeam
+
+```http
+ /api/v1/player/team/leave
+```
+
+| Description                 |
+|  :------------------------- |
+|  leave current team.|
+
+#### getParticipantMatches
+
+```http
+ /api/v1/match/get-by-participant/{participantId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get the participants of the match.|
+
+#### getMatchById
+
+```http
+ /api/v1/match/get-by-id/{matchId}
+```
+
+| Description                 |
+|  :------------------------- |
+|  get match by it's id.|
