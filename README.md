@@ -31,6 +31,12 @@ Subscription Management: Players can easily subscribe to their chosen PC centers
 
 ---
 
+## Diagrams
+- [Usecase diagram P1](https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?view_items=cnq~SSIeWqfB&invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b)
+- [Usecase diagram P2](https://lucid.app/lucidchart/e5455375-88e3-4ebc-93fe-774c0053ca63/edit?beaconFlowId=8798B8329F0DF94E&invitationId=inv_7373ffb9-81f0-4ab2-ac23-4628433424ca&page=0_0#)
+- [Class diagram](https://drive.google.com/file/d/1bruFimOwVR5KivpLjTzH2Wah70n8tbzL/view)
+
+
 ## My endpoints
 
 #### getLeague
